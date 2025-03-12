@@ -1,0 +1,10 @@
+.pos-tag {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+
+    .node-circle {
+        margin-bottom: 7px;
+    }
+}
